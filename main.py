@@ -17,4 +17,4 @@ while attemmpts < 10:
 	return
     else:
 	print(bulls,"Bulls",cows,"Cows")
-    print("당신은 패배하였습니다 정답은 ", answer,"였습니다")
+print("당신은 패배하였습니다 정답은 ", answer,"였습니다")
