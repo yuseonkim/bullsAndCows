@@ -1,10 +1,10 @@
 import cowscheck
-import bulls:
+import bulls
 
 answer = random()
 attempts = 0
 print("게임시작!!)
-while attemmpts < 10:
+while attempts < 10:
     guess = input (" 네자리 숫자를 입력하세요 : ")
     attempts += i
     if len(guess) != 4 or not guess.isdigt():
