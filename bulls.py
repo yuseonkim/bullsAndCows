@@ -5,3 +5,5 @@ def bulls(user, answer) :
 		if i in answer :
 			if user.index(i) == answer.index(i) :
 				bull += 1
+	
+	return bull
